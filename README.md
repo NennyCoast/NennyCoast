@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/NennyCoast">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nennycoast&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nennycoast&layout=compact&langs_count=7&theme=radical"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nennycoast&layout=compact&langs_count=7&theme=radical"/>
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
    src="https://cdn.discordapp.com/attachments/862610776152604683/957188034380591145/picasion.com_6f9e7e61e220d22c48c730752b6b3391.gif">
 </div>
