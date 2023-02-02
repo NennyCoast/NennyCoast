@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Atendimento e Marketing Digital
 - 📖 Estudando Desenvolvimento Web | Front-End.
-- 🔥 Estudando Gestão de Tráfego | 90%
+- 📊 Gestora de Tráfego | Tráfego Pago
 - ⚡ VOCÊ É O SEU ÚNICO LIMITE!
 
 <div align="center">
