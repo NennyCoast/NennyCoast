@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Nenny 👋
 
 - 🔭 Hoje trabalho com Atendimento e Marketing Digital
-- 📖 Estudando Desenvolvimento Web | Front-End.
 - 📊 Gestora de Tráfego | Tráfego Pago
+- 📖 Estudando Desenvolvimento Web | Front-End.
 - ⚡ VOCÊ É O SEU ÚNICO LIMITE!
 
 <div align="center">
